@@ -12,4 +12,14 @@
     <artifactId>day_1_ex_1</artifactId>
     <name>Spring - Day 1 - Ex 1</name>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+        </dependency>
+    </dependencies>
 </project>

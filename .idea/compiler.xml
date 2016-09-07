@@ -24,10 +24,12 @@
         <processorPath useClasspath="true" />
         <module name="day_1" />
         <module name="day_1_ex_1" />
+        <module name="day_2_ex_1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="day_1_ex_1" target="1.5" />
+      <module name="day_2_ex_1" target="1.5" />
       <module name="Spring_Course" target="1.5" />
     </bytecodeTargetLevel>
   </component>
